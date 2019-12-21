@@ -81,6 +81,7 @@ body {
 	margin-top: 2%;
 }
 .navigation a {
+    width: 100%;
 	color: grey;
 	padding-right: 80px;
 	margin-top: 2%;
@@ -151,7 +152,7 @@ small {
 }
 .header1 div {
 	display: flex;
-	width: 45%;
+	
 	margin: 2%;
 }
 .one {
@@ -224,6 +225,7 @@ small {
        text-align: center;
    }
    .navigation a {
+       width: 100%;
        padding: 5%;
        font-size: 22;
        border-bottom: 1px solid black;
@@ -233,9 +235,6 @@ small {
    }
    .one h1 {
        font-size: 40;
-   }
-   .button1 {
-     
    }
    .section1 {
        display: flex;
